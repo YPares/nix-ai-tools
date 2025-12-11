@@ -39,6 +39,16 @@ Nix packages for AI coding agents and development tools. Automatically updated d
 
 </details>
 <details>
+<summary><strong>cased-kit</strong> - Production-ready toolkit for codebase mapping, symbol extraction, code search, and building LLM-powered developer tools</summary>
+
+- **Source**: source
+- **License**: MIT
+- **Homepage**: https://github.com/cased/kit
+- **Usage**: `nix run github:numtide/llm-agents.nix#cased-kit -- --help`
+- **Nix**: [packages/cased-kit/package.nix](packages/cased-kit/package.nix)
+
+</details>
+<details>
 <summary><strong>catnip</strong> - Developer environment that's like catnip for agentic programming</summary>
 
 - **Source**: binary
